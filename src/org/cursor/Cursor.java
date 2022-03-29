@@ -14,7 +14,7 @@ public class Cursor {
 			v.add(2);
 			v.add(3);
 			
-			
+			System.out.println("kanishkar");
 			Enumeration<Integer> elements2 = v.elements();
 			while(elements2.hasMoreElements()) {
 				Integer l = elements2.nextElement();
